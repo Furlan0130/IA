@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: rgb(228, 238, 252);
+}
+main{
+    background-color: rgb(228, 238, 252);
+    width: 100%;
+    width: 100%;
+    float: left;
+}
+h1{
+    margin-top: 10%;
+    margin-bottom: 3%;
+    text-align: center;
+    font-size: 2m;
+}
+p{
+    text-align: center;
+    font-size: 1.2em;
+}
+input{
+    width: 30vh;
+    height: 6vh;
+    border-radius: 20px;
+    border: 2px solid;
+    border-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 1em;
+    padding: 10px;
+}
+#btns{
+    margin-left: 16%;
+    margin-top: 10%;
+}
+#ps{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+small{
+    font-size: 1em ;
+    float: right;
+    margin: 5%;
+    margin-bottom: 10%;
+    margin-right: 13%;
+}
+#fp{
+    width: 30vh;
+    height: 8vh;
+    margin-left:18%;
+    margin-bottom: 14%;
+    border-radius: 20px;
+    border: 2px solid;
+    border-color:rgb(228, 238, 252);
+    font-weight: bold;
+    font-size: 1em;
+    background-color: rgb(230, 22, 167);
+    color: white;
+    font-weight: bold;
+    
+    
+}
+button{
+    width: 10vh;
+    height: 10vh;
+    border:  rgb(228, 238, 252) solid;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1000px;
+    font-size: 1em;
+}
+#icon{
+    margin: 8%;
+    display: flex;
+    gap: 4vh;
+    font-weight: bold;
+}
+#fn{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 15%;
+}
+#opc{
+    font-weight: bold;
+}
